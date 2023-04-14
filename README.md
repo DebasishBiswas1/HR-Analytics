@@ -15,5 +15,8 @@ This Power BI Dashboard will help the HR to comfortably and quickly look over an
 
 ## Screenshots
 
-![App Screenshot](C:\Users\HP\Desktop\cute-kutta.jpg)
 
+
+![April](https://user-images.githubusercontent.com/126973301/232074358-20caade0-ca3c-4e34-8ee0-fb5d44afac7d.jpg)
+![June](https://user-images.githubusercontent.com/126973301/232074434-a11538e4-8715-475c-b70d-6cfd69511dc3.jpg)
+![May](https://user-images.githubusercontent.com/126973301/232074450-6065f99d-7dfd-46ed-857a-0f3a4860eb08.jpg)
